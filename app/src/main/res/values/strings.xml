@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jusqu-ici</string>
+    <string name="default_web_client_id">120032611856-v6uapgfd6187pgkpbg5th0erb4otdsm8.apps.googleusercontent.com</string>
+    <string name="google_client_id">AIzaSyAz2goHIOGij1pt2zSQufKc3rQssBRMwIw</string>
+    <string name="title_activity_ride_info">RideInfoActivity</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
